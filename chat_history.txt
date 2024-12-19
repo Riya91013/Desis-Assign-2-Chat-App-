@@ -1,0 +1,33 @@
+Server: Hey, everyone connected to this server
+Riya -> Isha: Hey, Isha, How r u??
+Isha -> Riya: Hey, Riya, I am fine, U say??
+Riya -> Isha: I am good. So, what r u upto these days ?
+Isha -> Riya: I am all into resting now...:) :)
+Riya -> Isha: Goood, have u talked to rohan ?
+Isha -> Riya: Nope, I haven't 
+Riya -> Isha: Let me talk to him
+Isha -> Riya: ohkk, u do it rn, i will talk later...
+Riya -> Rohan: Hey, Rohan, how r u :)
+Rohan -> Riya: Hey, Riya, I am all good :) , u say??
+Riya -> Rohan: I am also good, waht are your plans for this winter vacations??
+Rohan -> Riya: Mine is all about little up nd down here nd there, and after that ICPC stuff...
+Riya -> Rohan: Great yarr, lage raho...
+Rohan -> Riya: Yess :)
+Isha -> Rohan: Hey, u free ?
+Rohan -> Isha: Yes Isha, say ??
+Isha -> Rohan: Just wanted to ask about some ICPC stuff , let me know when u free for a call..:)
+Rohan -> Isha: Yes, I will contact u.
+Server: Server is about to exit, Just 1 min left.
+Riya -> Rohan: Ohkkk ig i will talk to u laterr...
+Rohan -> Riya: Yes...ttyl :)
+Isha -> Rohan: Ohkkkk, great we will talk later abt this...Byeee
+Rohan -> Isha: Byee, Ishaaa..:)
+Server: Hey Everyone connected to 8080 Port....
+Server: Hey, alll
+Riya -> Isha: Hiiiiiii
+Riya -> Rohan: Heyyyyyy
+Isha -> Riya: Helllooooo
+Isha -> Rohan: Heyyyaa
+Rohan -> Riya: Hi, :)
+Rohan -> Isha: Hey :)
+Rohan: Exit

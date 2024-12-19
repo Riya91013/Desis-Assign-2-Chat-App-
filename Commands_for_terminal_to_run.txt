@@ -1,0 +1,31 @@
+//all these commands are to be used on the terminal opened in the same path as all the files.
+
+g++ SServer.cpp -o SServer.exe -lws2_32
+
+g++ Client1.cpp -o Client1.exe -lws2_32
+
+g++ Client2.cpp -o Client2.exe -lws2_32
+
+g++ Client3.cpp -o Client3.exe -lws2_32
+
+.\SServer.exe
+//Terminal: Server listening on port 8080...
+
+//Open three more tabs in terminal for all clients..in the same directory
+// cd: directory of files (if needed)
+
+.\Client1.exe
+
+//Terminal: Enter your Username:
+
+.\Client2.exe
+
+//Terminal: Enter your Username:
+
+.\Client3.exe
+
+//Terminal: Enter your Username: 
+
+//For any Client to talk to other client:
+// @User: message (this will be received by "User")
+// message (this will be broadcasted to all the connections)
